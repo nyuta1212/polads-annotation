@@ -14,41 +14,15 @@ Videos usually have something that they want to convey to their viewers. In orde
 
 - **Repetition**: Showing the same idea repeatedly to make viewers believe it.
 - **Mood**: Showing scenes with some colors or modify the dominating colors in the scenes so that the scenes give the impressions/emotions associated with the colors. For example, dark colors may imply negative impressions/nemotions; red may imply anger or heat. 
-- **Overwhelm**: 
-    interview: {name: 'Interview', color: '#FFECB3', key: '4', detail: ''},
-    presentation: { name: 'Presentation', color: '#D1C4E9', key: '4', detail: '' },
-    emotion: { name: 'Implication of Emotion', color: '#B3E5FC', key: '4', detail: '' },
-    mirroing: { name: 'Emotiong Mirroring', color: '#DCEDC8', key: '4', detail: '' },
-    claim: { name: 'Implication of Claim', color: '#FFE0B2', key: '4', detail: '' },
-    authority: { name: 'Implication of Authority', color: '#F8BBD0', key: '4', detail: '' },
-    slogan: { name: 'Slogans/Labeling', color: '#BBDEFB', key: '4', detail: '' },
+- **Overwhelm**: Showing many visual elements (e.g., changing scenes rapidly or packing many visual elements like images, subtitles, etc. in a scene), sometimes in a chaotic way, which may prevent the viewer from thinking. 
+- **Interview**: Showing interview with some people (typically a single person), talking about some ideas as their own ones thought. By this, the viewer may think that the ideas are accepted by (a certian group of or general) people. 
+- **Presentation**: Talking or presenting some ideas to convince the viewer. 
+- **Implication of Emotion**: Showing some visual elements that imply certain emotions/impressions so that the topic in (the corresponding part of) the video can be associated with these emotions/impressions. For example, talking about a certain candidate in a policical ad video with showing a person with raising his/her clenched fist may imply confidence.
+- **Emotiong Mirroring**: This is similar to Implication fo Emotion, but with showing facial expressions (instead of arbitrary visual elements).
+- **Implication of Claim**: Showing some visual elements that support a certain idea in (the corresponding part of) the video. The visual elements are not necessarily associated with the context. For example, showing an image of a candidate together with an image of bills may give an impression that the candidate is mean about money. 
+- **Implication of Authority**: Showing some visual elements that imply authority to give impression that the idea is authorized, which may not be necessarily the case.
+- **Slogans**: Showing a slogan (as a visual element like a subtitle) to impress it. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Questions?
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nyuta1212/polads-annotation/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Please use the 
