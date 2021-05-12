@@ -1,18 +1,27 @@
----
-layout: default
-title: github pages sample
-description: github pagesのサンプルページです！
----
+## Greeting and Purpose
 
-## Welcome to GitHub Pages
+Thank you so much for chooing our HITs．
 
-How can i change the content?
+As a part our our research project, we are now trying to build a deep neural network model to identify communication techniques in videos (we chose political ad videos as our target). If successful, our model can automatically find why the video is edited in the way it is, telling people some hints on what the video is trying to communicate. 
 
-You can use the [editor on GitHub](https://github.com/nyuta1212/polads-annotation/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Below we provide our list of possible communication techniques in videos and then the instruction on how to use our interface to annotate temporal segments. We appreciate your time to read through this instruction to make wonderful annotations. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**We may apply some criteria to automatically reject your input. Please try to comply with the instruction.**
 
-### Markdown
+### Communication Techniques in Videos
+
+Videos usually have something that they want to convey to their viewers. In order to communicate the ideas well with the viewers, they are edited with some techniques. We identify the following techniques:
+
+- **Repetition**: Showing the same idea repeatedly to make viewers believe it.
+- **Mood**: Showing scenes with some colors or modify the dominating colors in the scenes so that the scenes give the impressions/emotions associated with the colors. For example, dark colors may imply negative impressions/nemotions; red may imply anger or heat. 
+- **Overwhelm**: 
+    interview: {name: 'Interview', color: '#FFECB3', key: '4', detail: ''},
+    presentation: { name: 'Presentation', color: '#D1C4E9', key: '4', detail: '' },
+    emotion: { name: 'Implication of Emotion', color: '#B3E5FC', key: '4', detail: '' },
+    mirroing: { name: 'Emotiong Mirroring', color: '#DCEDC8', key: '4', detail: '' },
+    claim: { name: 'Implication of Claim', color: '#FFE0B2', key: '4', detail: '' },
+    authority: { name: 'Implication of Authority', color: '#F8BBD0', key: '4', detail: '' },
+    slogan: { name: 'Slogans/Labeling', color: '#BBDEFB', key: '4', detail: '' },
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
