@@ -1,3 +1,9 @@
+---
+layout: default
+title: github pages sample
+description: github pagesのサンプルページです！
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/nyuta1212/polads-annotation/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
