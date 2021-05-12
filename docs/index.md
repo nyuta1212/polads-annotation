@@ -6,6 +6,8 @@ description: github pagesのサンプルページです！
 
 ## Welcome to GitHub Pages
 
+How can i change the content?
+
 You can use the [editor on GitHub](https://github.com/nyuta1212/polads-annotation/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
