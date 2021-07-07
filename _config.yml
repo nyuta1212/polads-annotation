@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: Annotating PolAds Communication Techniques 
 github:
   is_project_page: false
+baseurl: https://trusting-galileo-f27c3e.netlify.app
