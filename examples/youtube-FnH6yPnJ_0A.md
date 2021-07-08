@@ -1,5 +1,16 @@
 
-## Example
+## Examples
+
+Annotation IDs (such as "emotion-1") are shown on top of the video frames, where the same 
+IDs appear in the chart below and the "Comments on each annotation" section (actual IDs 
+when you annotate are random letters, but we changed them here for readability). 
+
+The "Comments on each annotation" section shows the comments that you will provide when 
+annotating." 
+
+The "Note" section provides explanation about why this video has these annotations.
+
+### Video
 
 <div align="center">
   <video
@@ -11,15 +22,14 @@
     poster=""
     data-setup="{}"
   >
-    <source src="youtube/FnH6yPnJ_0A.mp4" type="video/mp4" />
+    <source src="https://trusting-galileo-f27c3e.netlify.app/examples/youtube/FnH6yPnJ_0A.mp4" type="video/mp4" />
   </video>
   <script src="https://vjs.zencdn.net/7.11.4/video.min.js"></script>
 </div>
+<br /><br />
 
-
-### A0000000000000
 <div align="left" style="padding-left: 8px">
-    <img src="A0000000000000-youtube-FnH6yPnJ_0A.png" width="735px">
+    <img src="https://trusting-galileo-f27c3e.netlify.app/examples/A0000000000000-youtube-FnH6yPnJ_0A.png" width="735px">
 </div>
 
 #### Comments on each annotation
@@ -27,3 +37,11 @@
 - **emotion-1**: hopeful, confident, positive 
 - **claim-1**: talking about how Trump is good and down Biden or polliticians
 - **emotion-2**: dignity, confidence, greatness
+
+
+### Note
+The first part of the video shows a compilation of hopeful and confident scenes. This may be intended to provide these emotions to viewers, so the "Implication of Emotion" label is assigned. 
+
+The next part claims good things about Trump and bad things about the other candidate and parties (claim-1).
+
+The last part is intended to make the viewer proud of America. 

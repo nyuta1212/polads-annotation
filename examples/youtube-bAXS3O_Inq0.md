@@ -1,5 +1,16 @@
 
-## Example
+## Examples
+
+Annotation IDs (such as "emotion-1") are shown on top of the video frames, where the same 
+IDs appear in the chart below and the "Comments on each annotation" section (actual IDs 
+when you annotate are random letters, but we changed them here for readability). 
+
+The "Comments on each annotation" section shows the comments that you will provide when 
+annotating." 
+
+The "Note" section provides explanation about why this video has these annotations.
+
+### Video
 
 <div align="center">
   <video
@@ -11,15 +22,14 @@
     poster=""
     data-setup="{}"
   >
-    <source src="youtube/bAXS3O_Inq0.mp4" type="video/mp4" />
+    <source src="https://trusting-galileo-f27c3e.netlify.app/examples/youtube/bAXS3O_Inq0.mp4" type="video/mp4" />
   </video>
   <script src="https://vjs.zencdn.net/7.11.4/video.min.js"></script>
 </div>
+<br /><br />
 
-
-### A0000000000000
 <div align="left" style="padding-left: 8px">
-    <img src="A0000000000000-youtube-bAXS3O_Inq0.png" width="735px">
+    <img src="https://trusting-galileo-f27c3e.netlify.app/examples/A0000000000000-youtube-bAXS3O_Inq0.png" width="735px">
 </div>
 
 #### Comments on each annotation
@@ -28,3 +38,10 @@
 - **mirroing-1**: confidence
 - **mirroing-2**: happy
 - **slogan-1**: make America great again
+
+
+### Note
+
+The first part highlights what Trump did ("Implication of Claim"). After this part, it shows a person's face with confidence and another person with smile. Different labels (mirroring-1 and mirroing-2) are assigned to them as their emotions are different.
+
+The last part is the sloggan "make America great again". 
