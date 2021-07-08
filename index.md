@@ -96,6 +96,9 @@ Showing a slogan (as a visual element like a subtitle) to impress it.
 - [Example 7](/examples/youtube-CNtYb1x6InM)
 - [Example 11](/examples/youtube-Tk_znMsa8D8)
 
+
+**All examples are listed [here](/examples).**
+
 ## When Annotating
 
 ### Put the main attention to the visual compoments of the video
