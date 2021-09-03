@@ -37,7 +37,7 @@ Showing many visual elements (e.g., changing scenes rapidly or packing many visu
 
 ### Interview
 
-Showing an interview with some people (typically a single person), talking about some ideas as their own ones thought. By this, the viewer may think that the ideas are accepted by (a certain group of or general) people. 
+Showing an interview with some people (typically a single person), talking about some ideas as their own thought. By this, the viewer may think that the ideas are accepted by (a certain group of or general) people. 
 
 - [Example 1](/examples/google-gcdn-eb5b36fd11bcba72)
 - [Example 5](/examples/youtube-7hxMeFMMlm8)
@@ -46,7 +46,7 @@ Showing an interview with some people (typically a single person), talking about
 
 ### Presentation
 
-Talking or presenting some ideas to convince the viewer. 
+Talking or presenting some ideas to convince the viewer. Compared to "Interview", presentation is done by someone who involves the video (as a first person).
 
 - [Example 9](/examples/youtube-iSyNuYNNUPM)
 - [Example 10](/examples/youtube-oRnUP2pFPO4)
