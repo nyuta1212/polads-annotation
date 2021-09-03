@@ -1,4 +1,4 @@
-# Greeting and Purpose
+q# Greeting and Purpose
 
 Thank you so much for choosing our HITs．
 
@@ -9,6 +9,8 @@ Training a deep neural network model requires a vast amount of data with high-qu
 Below we provide our list of possible communication techniques in videos and then the instruction on how to use our interface to annotate temporal segments. We appreciate your time to read through this instruction to make high-quality annotations. 
 
 **We may apply some criteria to automatically reject your input. Please try to comply with the instruction.**
+
+The reward will be paied based on the length of the video (i.e., $0.50 for ~15 sec, $1.00 for ~30 sec, $1.50 for ~45 sec, $2.00 for ~60 sec
 
 ## Communication Techniques in Videos
 
@@ -46,14 +48,14 @@ Showing an interview with some people (typically a single person), talking about
 
 ### Presentation
 
-Talking or presenting some ideas to convince the viewer. Compared to "Interview", presentation is done by someone who involves the video (as a first person).
+Talking or presenting some ideas to convince the viewer. Compared to "Interview", presentation is done by someone who involves the video (as a first person/stakeholder).
 
 - [Example 9](/examples/youtube-iSyNuYNNUPM)
 - [Example 10](/examples/youtube-oRnUP2pFPO4)
 
 ### Implication of Emotion
 
-Showing some visual elements that imply certain emotions/impressions so that the topic in (the corresponding part of) the video can be associated with these emotions/impressions. For example, talking about a certain candidate in a political ad video with showing a person with raising his/her clenched fist may imply confidence.
+Showing some visual elements that imply certain emotions/impressions so that the topic in (the corresponding part of) the video can be associated with these emotions/impressions. For example, talking about a candidate with raising his/her clenched fist may imply confidence. 
 
 - [Example 2](/examples/youtube-_6IhvHFGR98)
 - [Example 5](/examples/youtube-7hxMeFMMlm8)
